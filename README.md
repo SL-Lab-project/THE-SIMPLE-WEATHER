@@ -9,3 +9,8 @@ HTML: Structured the web page layout and content.
 CSS: Styled the elements to enhance visual appeal and user experience.
 JavaScript: Implemented the functionality for fetching and displaying weather data, as well as handling user interactions.
 OpenWeather API: Integrated the API to retrieve live weather information for the specified locations.
+
+project by:
+1.Sumedh Khangan - A-57
+2.Shubham yadav - A-55
+3.vishesh Purohit - A-62
