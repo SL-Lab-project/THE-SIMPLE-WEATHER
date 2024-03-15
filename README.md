@@ -1,11 +1,4 @@
-# WeatherApplication
-A simple weather application using the openweather API.
+THE SIMPLE WEATHER
 
-STEPS TO RUN THE CODE: 
-1. Go to https://openweathermap.org
-2. Create a free account
-3. Navigate to the API keys section
-4. Generate a key
-5. Copy that key to clipboard
-6. Insert that key into the required variable in the script.js file
-7. Enjoy!
+Description:
+SimpleWeather is a lightweight web application designed to provide users with real-time weather information using the OpenWeather API. With a clean and intuitive interface, users can easily access current weather conditions, temperature, humidity, wind speed, and more for any location worldwide.
